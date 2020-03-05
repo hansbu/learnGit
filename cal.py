@@ -6,7 +6,7 @@ def add(x, y):
 
 
 def subtract(x, y):
-   return x
+   return x - y
 
 
 
