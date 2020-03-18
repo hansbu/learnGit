@@ -2,7 +2,8 @@
 
 
 def add(x, y):
-    pass
+	# add wrong comment when working at MUL
+    pass		
 
 
 def subtract(x, y):
